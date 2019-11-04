@@ -1,9 +1,3 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
-"Canmore-download-Mon, 04 Nov 2019 10:12:48 +0000.csv"
-
-
-CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
 "16581","NJ26SE 7","Innesmill","Stone Circle (Neol/bronze Age)","328950","864070","MORAY","MORAYSHIRE","URQUHART","NJ 2895 6407","http://canmore.org.uk/site/16581",
 "17006","NJ40SE 1","Tomnaverie","Recumbent Stone Circle (Neol/bronze Age)","348650","803490","ABERDEENSHIRE","ABERDEENSHIRE","COULL","NJ 4865 0349","http://canmore.org.uk/site/17006",
 "17326","NJ44SE 9","Hill Of Milleath","Recumbent Stone Circle (Neol/bronze Age)","346790","842940","ABERDEENSHIRE","ABERDEENSHIRE","CAIRNIE","NJ 4679 4294","http://canmore.org.uk/site/17326",
